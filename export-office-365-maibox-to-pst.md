@@ -12,11 +12,11 @@ It is obviously important to always have your data stored in a place where the c
 Since there is no direct solution provided by MS Office 365 itself, we are here with the mostly used and known techniques. 
 
 **Table of Content:**
-    1. Need to Export Data
-    2. Techniques to Transfer Data
-    3. Pre-Requisites of Manual Method
-    4. Using e-Discovery Method
-    5. Immediate Solution
+1. Need to Export Data
+2. Techniques to Transfer Data
+3. Pre-Requisites of Manual Method
+4. Using e-Discovery Method
+5. Immediate Solution
     
 ## What is the Need to Export Office 365 Mailbox to PST Using e-Discovery?
 
