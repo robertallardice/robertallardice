@@ -2,6 +2,8 @@ This guide gives the explanation to export Office 365 mailbox to PST using e-Dis
 Most of the users want a service which provides them with an easy-to-work-with email service. Microsoft 365 (formerly Office 365) is one of the top-rated email services that offers a ton of services to its users.
 Office 365 is a productivity Suite, as known by everyone, that helps users grow their business by offering the option to access data from any location at any time. 
 
+> [!NOTE]
+
 # So why do users want to export Office 365 mailbox to PST?
 
 It is not a very commonly known fact that Microsoft 365 doesn’t provide a backup option. There is an in-place Archive feature but it doesn’t create a backup of the data.
