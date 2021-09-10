@@ -1,3 +1,7 @@
+---
+title: "How to Export Office 365 Mailbox to PST"
+description: Learn how to use the eDiscovery tool in the Microsoft 365 compliance center to bulk-export Office 365 mailboxes to PST formats.
+---
 This guide gives the explanation to export Office 365 mailbox to PST using e-Discovery method. In addition to that, the need to migrate the data and an expert’s recommendation will also be discussed in here. 
 Most of the users want a service which provides them with an easy-to-work-with email service. Microsoft 365 (formerly Office 365) is one of the top-rated email services that offers a ton of services to its users.
 Office 365 is a productivity Suite, as known by everyone, that helps users grow their business by offering the option to access data from any location at any time. 
