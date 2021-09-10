@@ -44,7 +44,7 @@ Remember, the first technique is quite difficult and a lot of complex steps.
 
 ### Pre-Requisites of the Export Office 365 Mailbox to PST Using e-Discovery Method
 
-** For starting with the [e-Discovery Content Search Tool](https://docs.microsoft.com/en-us/microsoft-365/compliance/configure-edge-to-export-search-results), you need to meet with some pre-requisites of the manual method as described below:** 
+**For starting with the [e-Discovery Content Search Tool](https://docs.microsoft.com/en-us/microsoft-365/compliance/configure-edge-to-export-search-results), you need to meet with some pre-requisites of the manual method as described below:** 
 
     - You should be a member of the Discovery Management Group.
     - If you want to perform the operation to export search results in Outlook data file, Windows 7 or later is required.
